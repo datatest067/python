@@ -3,6 +3,7 @@
 This is a sample template for sam-app - Below is a brief explanation of what we have generated for you:
 
 ```bash
+###
 .
 ├── README.md                   <-- This instructions file
 ├── hello_world                 <-- Source code for a lambda function
